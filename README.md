@@ -9,7 +9,7 @@ The script will create an `AppIcon.appiconset` folder on your destination folder
 ## Installation
 
 1. Download or clone repo
-2. Copy `XCode-iOS-Icons.jsx` to `/Applications/Adobe Photoshop CC 2017/Presets/Scripts/` (or equivalent)
+2. Copy `XCode-iOS-Icons.jsx` to `/Applications/Adobe Photoshop XX/Presets` (or equivalent)
 
 ## Usage
 
